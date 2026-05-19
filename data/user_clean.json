@@ -1,0 +1,3002 @@
+[
+  {
+    "User_Id": 1,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 20,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 2,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 21,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 3,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 23,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 4,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 21,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 5,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 20,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 6,
+    "Location": "Jakarta Utara, DKI Jakarta",
+    "Age": 18,
+    "User_Lat": -6.1213,
+    "User_Long": 106.8748,
+    "City": "Jakarta Utara",
+    "Province": "DKI Jakarta",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 7,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 39,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 8,
+    "Location": "Bandung, Jawa Barat",
+    "Age": 40,
+    "User_Lat": -6.9175,
+    "User_Long": 107.6191,
+    "City": "Bandung",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 9,
+    "Location": "Surabaya, Jawa Timur",
+    "Age": 38,
+    "User_Lat": -7.2575,
+    "User_Long": 112.7521,
+    "City": "Surabaya",
+    "Province": "Jawa Timur",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 10,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 39,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 11,
+    "Location": "Yogyakarta, DIY",
+    "Age": 20,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 12,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 37,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 13,
+    "Location": "Depok, Jawa Barat",
+    "Age": 18,
+    "User_Lat": -6.4025,
+    "User_Long": 106.7942,
+    "City": "Depok",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 14,
+    "Location": "Jakarta Pusat, DKI Jakarta",
+    "Age": 26,
+    "User_Lat": -6.1805,
+    "User_Long": 106.8284,
+    "City": "Jakarta Pusat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 15,
+    "Location": "Jakarta Timur, DKI Jakarta",
+    "Age": 34,
+    "User_Lat": -6.225,
+    "User_Long": 106.9004,
+    "City": "Jakarta Timur",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 16,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 40,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 17,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 31,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 18,
+    "Location": "Yogyakarta, DIY",
+    "Age": 39,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 19,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 26,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 20,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 30,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 21,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 30,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 22,
+    "Location": "Subang, Jawa Barat",
+    "Age": 25,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 23,
+    "Location": "Jakarta Barat, DKI Jakarta",
+    "Age": 37,
+    "User_Lat": -6.1688,
+    "User_Long": 106.7636,
+    "City": "Jakarta Barat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 24,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 36,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 25,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 40,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 26,
+    "Location": "Palembang, Sumatera Selatan",
+    "Age": 38,
+    "User_Lat": -2.9761,
+    "User_Long": 104.7754,
+    "City": "Palembang",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 27,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 22,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 28,
+    "Location": "Sragen, Jawa Tengah",
+    "Age": 38,
+    "User_Lat": -7.425,
+    "User_Long": 111.028,
+    "City": "Sragen",
+    "Province": "Jawa Tengah",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 29,
+    "Location": "Ponorogo, Jawa Timur",
+    "Age": 34,
+    "User_Lat": -7.8643,
+    "User_Long": 111.4638,
+    "City": "Ponorogo",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 30,
+    "Location": "Depok, Jawa Barat",
+    "Age": 30,
+    "User_Lat": -6.4025,
+    "User_Long": 106.7942,
+    "City": "Depok",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 31,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 26,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 32,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 34,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 33,
+    "Location": "Ponorogo, Jawa Timur",
+    "Age": 24,
+    "User_Lat": -7.8643,
+    "User_Long": 111.4638,
+    "City": "Ponorogo",
+    "Province": "Jawa Timur",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 34,
+    "Location": "Sragen, Jawa Tengah",
+    "Age": 31,
+    "User_Lat": -7.425,
+    "User_Long": 111.028,
+    "City": "Sragen",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 35,
+    "Location": "Klaten, Jawa Tengah",
+    "Age": 24,
+    "User_Lat": -7.7059,
+    "User_Long": 110.6014,
+    "City": "Klaten",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 36,
+    "Location": "Solo, Jawa Tengah",
+    "Age": 20,
+    "User_Lat": -7.5753,
+    "User_Long": 110.8243,
+    "City": "Solo",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 37,
+    "Location": "Tanggerang, Banten",
+    "Age": 21,
+    "User_Lat": -6.1783,
+    "User_Long": 106.6319,
+    "City": "Tanggerang",
+    "Province": "Banten",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 38,
+    "Location": "Serang, Banten",
+    "Age": 26,
+    "User_Lat": -6.1201,
+    "User_Long": 106.1503,
+    "City": "Serang",
+    "Province": "Banten",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 39,
+    "Location": "Cilacap, Jawa Tengah",
+    "Age": 32,
+    "User_Lat": -7.7197,
+    "User_Long": 109.0145,
+    "City": "Cilacap",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 40,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 27,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 41,
+    "Location": "Yogyakarta, DIY",
+    "Age": 24,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 42,
+    "Location": "Kota Gede, DIY",
+    "Age": 37,
+    "User_Lat": -7.8297,
+    "User_Long": 110.3961,
+    "City": "Kota Gede",
+    "Province": "DIY",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 43,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 33,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 44,
+    "Location": "Subang, Jawa Barat",
+    "Age": 21,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 45,
+    "Location": "Karawang, Jawa Barat",
+    "Age": 25,
+    "User_Lat": -6.3212,
+    "User_Long": 107.3381,
+    "City": "Karawang",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 46,
+    "Location": "Purwakarat, Jawa Barat",
+    "Age": 38,
+    "User_Lat": -6.5566,
+    "User_Long": 107.439,
+    "City": "Purwakarat",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 47,
+    "Location": "Jakarta Utara, DKI Jakarta",
+    "Age": 31,
+    "User_Lat": -6.1213,
+    "User_Long": 106.8748,
+    "City": "Jakarta Utara",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 48,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 35,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 49,
+    "Location": "Jakarta Pusat, DKI Jakarta",
+    "Age": 24,
+    "User_Lat": -6.1805,
+    "User_Long": 106.8284,
+    "City": "Jakarta Pusat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 50,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 19,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 51,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 29,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 52,
+    "Location": "Karawang, Jawa Barat",
+    "Age": 18,
+    "User_Lat": -6.3212,
+    "User_Long": 107.3381,
+    "City": "Karawang",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 53,
+    "Location": "Subang, Jawa Barat",
+    "Age": 28,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 54,
+    "Location": "Serang, Banten",
+    "Age": 31,
+    "User_Lat": -6.1201,
+    "User_Long": 106.1503,
+    "City": "Serang",
+    "Province": "Banten",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 55,
+    "Location": "Tanggerang, Banten",
+    "Age": 19,
+    "User_Lat": -6.1783,
+    "User_Long": 106.6319,
+    "City": "Tanggerang",
+    "Province": "Banten",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 56,
+    "Location": "Kota Gede, DIY",
+    "Age": 18,
+    "User_Lat": -7.8297,
+    "User_Long": 110.3961,
+    "City": "Kota Gede",
+    "Province": "DIY",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 57,
+    "Location": "Yogyakarta, DIY",
+    "Age": 21,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 58,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 21,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 59,
+    "Location": "Ponorogo, Jawa Timur",
+    "Age": 26,
+    "User_Lat": -7.8643,
+    "User_Long": 111.4638,
+    "City": "Ponorogo",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 60,
+    "Location": "Surabaya, Jawa Timur",
+    "Age": 25,
+    "User_Lat": -7.2575,
+    "User_Long": 112.7521,
+    "City": "Surabaya",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 61,
+    "Location": "Nganjuk, Jawa Timur",
+    "Age": 23,
+    "User_Lat": -7.6047,
+    "User_Long": 111.9029,
+    "City": "Nganjuk",
+    "Province": "Jawa Timur",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 62,
+    "Location": "Madura, Jawa Timur",
+    "Age": 36,
+    "User_Lat": -7.0026,
+    "User_Long": 113.34,
+    "City": "Madura",
+    "Province": "Jawa Timur",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 63,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 35,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 64,
+    "Location": "Bandung, Jawa Barat",
+    "Age": 38,
+    "User_Lat": -6.9175,
+    "User_Long": 107.6191,
+    "City": "Bandung",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 65,
+    "Location": "Yogyakarta, DIY",
+    "Age": 22,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 66,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 33,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 67,
+    "Location": "Surabaya, Jawa Timur",
+    "Age": 25,
+    "User_Lat": -7.2575,
+    "User_Long": 112.7521,
+    "City": "Surabaya",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 68,
+    "Location": "Kota Gede, DIY",
+    "Age": 37,
+    "User_Lat": -7.8297,
+    "User_Long": 110.3961,
+    "City": "Kota Gede",
+    "Province": "DIY",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 69,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 24,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 70,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 21,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 71,
+    "Location": "Depok, Jawa Barat",
+    "Age": 39,
+    "User_Lat": -6.4025,
+    "User_Long": 106.7942,
+    "City": "Depok",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 72,
+    "Location": "Tanggerang, Banten",
+    "Age": 19,
+    "User_Lat": -6.1783,
+    "User_Long": 106.6319,
+    "City": "Tanggerang",
+    "Province": "Banten",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 73,
+    "Location": "Serang, Banten",
+    "Age": 29,
+    "User_Lat": -6.1201,
+    "User_Long": 106.1503,
+    "City": "Serang",
+    "Province": "Banten",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 74,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 30,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 75,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 19,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 76,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 19,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 77,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 34,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 78,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 22,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 79,
+    "Location": "Jakarta Utara, DKI Jakarta",
+    "Age": 31,
+    "User_Lat": -6.1213,
+    "User_Long": 106.8748,
+    "City": "Jakarta Utara",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 80,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 32,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 81,
+    "Location": "Bandung, Jawa Barat",
+    "Age": 29,
+    "User_Lat": -6.9175,
+    "User_Long": 107.6191,
+    "City": "Bandung",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 82,
+    "Location": "Surabaya, Jawa Timur",
+    "Age": 24,
+    "User_Lat": -7.2575,
+    "User_Long": 112.7521,
+    "City": "Surabaya",
+    "Province": "Jawa Timur",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 83,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 32,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 84,
+    "Location": "Yogyakarta, DIY",
+    "Age": 35,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 85,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 31,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 86,
+    "Location": "Depok, Jawa Barat",
+    "Age": 32,
+    "User_Lat": -6.4025,
+    "User_Long": 106.7942,
+    "City": "Depok",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 87,
+    "Location": "Jakarta Pusat, DKI Jakarta",
+    "Age": 30,
+    "User_Lat": -6.1805,
+    "User_Long": 106.8284,
+    "City": "Jakarta Pusat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 88,
+    "Location": "Jakarta Timur, DKI Jakarta",
+    "Age": 27,
+    "User_Lat": -6.225,
+    "User_Long": 106.9004,
+    "City": "Jakarta Timur",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 89,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 35,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 90,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 29,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 91,
+    "Location": "Yogyakarta, DIY",
+    "Age": 32,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 92,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 39,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 93,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 18,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 94,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 34,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 95,
+    "Location": "Subang, Jawa Barat",
+    "Age": 27,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 96,
+    "Location": "Jakarta Barat, DKI Jakarta",
+    "Age": 19,
+    "User_Lat": -6.1688,
+    "User_Long": 106.7636,
+    "City": "Jakarta Barat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 97,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 38,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 98,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 28,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 99,
+    "Location": "Palembang, Sumatera Selatan",
+    "Age": 33,
+    "User_Lat": -2.9761,
+    "User_Long": 104.7754,
+    "City": "Palembang",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 100,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 28,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 101,
+    "Location": "Sragen, Jawa Tengah",
+    "Age": 39,
+    "User_Lat": -7.425,
+    "User_Long": 111.028,
+    "City": "Sragen",
+    "Province": "Jawa Tengah",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 102,
+    "Location": "Ponorogo, Jawa Timur",
+    "Age": 21,
+    "User_Lat": -7.8643,
+    "User_Long": 111.4638,
+    "City": "Ponorogo",
+    "Province": "Jawa Timur",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 103,
+    "Location": "Depok, Jawa Barat",
+    "Age": 30,
+    "User_Lat": -6.4025,
+    "User_Long": 106.7942,
+    "City": "Depok",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 104,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 27,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 105,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 37,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 106,
+    "Location": "Ponorogo, Jawa Timur",
+    "Age": 32,
+    "User_Lat": -7.8643,
+    "User_Long": 111.4638,
+    "City": "Ponorogo",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 107,
+    "Location": "Sragen, Jawa Tengah",
+    "Age": 24,
+    "User_Lat": -7.425,
+    "User_Long": 111.028,
+    "City": "Sragen",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 108,
+    "Location": "Klaten, Jawa Tengah",
+    "Age": 33,
+    "User_Lat": -7.7059,
+    "User_Long": 110.6014,
+    "City": "Klaten",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 109,
+    "Location": "Solo, Jawa Tengah",
+    "Age": 18,
+    "User_Lat": -7.5753,
+    "User_Long": 110.8243,
+    "City": "Solo",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 110,
+    "Location": "Tanggerang, Banten",
+    "Age": 39,
+    "User_Lat": -6.1783,
+    "User_Long": 106.6319,
+    "City": "Tanggerang",
+    "Province": "Banten",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 111,
+    "Location": "Serang, Banten",
+    "Age": 38,
+    "User_Lat": -6.1201,
+    "User_Long": 106.1503,
+    "City": "Serang",
+    "Province": "Banten",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 112,
+    "Location": "Cilacap, Jawa Tengah",
+    "Age": 18,
+    "User_Lat": -7.7197,
+    "User_Long": 109.0145,
+    "City": "Cilacap",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 113,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 38,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 114,
+    "Location": "Yogyakarta, DIY",
+    "Age": 39,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 115,
+    "Location": "Kota Gede, DIY",
+    "Age": 26,
+    "User_Lat": -7.8297,
+    "User_Long": 110.3961,
+    "City": "Kota Gede",
+    "Province": "DIY",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 116,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 23,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 117,
+    "Location": "Subang, Jawa Barat",
+    "Age": 30,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 118,
+    "Location": "Karawang, Jawa Barat",
+    "Age": 32,
+    "User_Lat": -6.3212,
+    "User_Long": 107.3381,
+    "City": "Karawang",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 119,
+    "Location": "Purwakarat, Jawa Barat",
+    "Age": 25,
+    "User_Lat": -6.5566,
+    "User_Long": 107.439,
+    "City": "Purwakarat",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 120,
+    "Location": "Jakarta Utara, DKI Jakarta",
+    "Age": 32,
+    "User_Lat": -6.1213,
+    "User_Long": 106.8748,
+    "City": "Jakarta Utara",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 121,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 35,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 122,
+    "Location": "Jakarta Pusat, DKI Jakarta",
+    "Age": 24,
+    "User_Lat": -6.1805,
+    "User_Long": 106.8284,
+    "City": "Jakarta Pusat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 123,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 32,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 124,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 22,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 125,
+    "Location": "Karawang, Jawa Barat",
+    "Age": 24,
+    "User_Lat": -6.3212,
+    "User_Long": 107.3381,
+    "City": "Karawang",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 126,
+    "Location": "Subang, Jawa Barat",
+    "Age": 32,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 127,
+    "Location": "Serang, Banten",
+    "Age": 38,
+    "User_Lat": -6.1201,
+    "User_Long": 106.1503,
+    "City": "Serang",
+    "Province": "Banten",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 128,
+    "Location": "Tanggerang, Banten",
+    "Age": 28,
+    "User_Lat": -6.1783,
+    "User_Long": 106.6319,
+    "City": "Tanggerang",
+    "Province": "Banten",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 129,
+    "Location": "Kota Gede, DIY",
+    "Age": 29,
+    "User_Lat": -7.8297,
+    "User_Long": 110.3961,
+    "City": "Kota Gede",
+    "Province": "DIY",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 130,
+    "Location": "Yogyakarta, DIY",
+    "Age": 27,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 131,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 21,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 132,
+    "Location": "Ponorogo, Jawa Timur",
+    "Age": 31,
+    "User_Lat": -7.8643,
+    "User_Long": 111.4638,
+    "City": "Ponorogo",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 133,
+    "Location": "Surabaya, Jawa Timur",
+    "Age": 29,
+    "User_Lat": -7.2575,
+    "User_Long": 112.7521,
+    "City": "Surabaya",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 134,
+    "Location": "Nganjuk, Jawa Timur",
+    "Age": 27,
+    "User_Lat": -7.6047,
+    "User_Long": 111.9029,
+    "City": "Nganjuk",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 135,
+    "Location": "Madura, Jawa Timur",
+    "Age": 22,
+    "User_Lat": -7.0026,
+    "User_Long": 113.34,
+    "City": "Madura",
+    "Province": "Jawa Timur",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 136,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 35,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 137,
+    "Location": "Bandung, Jawa Barat",
+    "Age": 28,
+    "User_Lat": -6.9175,
+    "User_Long": 107.6191,
+    "City": "Bandung",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 138,
+    "Location": "Yogyakarta, DIY",
+    "Age": 25,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 139,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 33,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 140,
+    "Location": "Surabaya, Jawa Timur",
+    "Age": 25,
+    "User_Lat": -7.2575,
+    "User_Long": 112.7521,
+    "City": "Surabaya",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 141,
+    "Location": "Kota Gede, DIY",
+    "Age": 34,
+    "User_Lat": -7.8297,
+    "User_Long": 110.3961,
+    "City": "Kota Gede",
+    "Province": "DIY",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 142,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 29,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 143,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 25,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 144,
+    "Location": "Depok, Jawa Barat",
+    "Age": 18,
+    "User_Lat": -6.4025,
+    "User_Long": 106.7942,
+    "City": "Depok",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 145,
+    "Location": "Tanggerang, Banten",
+    "Age": 37,
+    "User_Lat": -6.1783,
+    "User_Long": 106.6319,
+    "City": "Tanggerang",
+    "Province": "Banten",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 146,
+    "Location": "Serang, Banten",
+    "Age": 38,
+    "User_Lat": -6.1201,
+    "User_Long": 106.1503,
+    "City": "Serang",
+    "Province": "Banten",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 147,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 18,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 148,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 33,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 149,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 30,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 150,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 40,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 151,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 36,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 152,
+    "Location": "Jakarta Utara, DKI Jakarta",
+    "Age": 25,
+    "User_Lat": -6.1213,
+    "User_Long": 106.8748,
+    "City": "Jakarta Utara",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 153,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 39,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 154,
+    "Location": "Bandung, Jawa Barat",
+    "Age": 31,
+    "User_Lat": -6.9175,
+    "User_Long": 107.6191,
+    "City": "Bandung",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 155,
+    "Location": "Surabaya, Jawa Timur",
+    "Age": 37,
+    "User_Lat": -7.2575,
+    "User_Long": 112.7521,
+    "City": "Surabaya",
+    "Province": "Jawa Timur",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 156,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 31,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 157,
+    "Location": "Yogyakarta, DIY",
+    "Age": 28,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 158,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 23,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 159,
+    "Location": "Depok, Jawa Barat",
+    "Age": 20,
+    "User_Lat": -6.4025,
+    "User_Long": 106.7942,
+    "City": "Depok",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 160,
+    "Location": "Jakarta Pusat, DKI Jakarta",
+    "Age": 36,
+    "User_Lat": -6.1805,
+    "User_Long": 106.8284,
+    "City": "Jakarta Pusat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 161,
+    "Location": "Jakarta Timur, DKI Jakarta",
+    "Age": 33,
+    "User_Lat": -6.225,
+    "User_Long": 106.9004,
+    "City": "Jakarta Timur",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 162,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 25,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 163,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 40,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 164,
+    "Location": "Yogyakarta, DIY",
+    "Age": 19,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 165,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 23,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 166,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 26,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 167,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 19,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 168,
+    "Location": "Subang, Jawa Barat",
+    "Age": 38,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 169,
+    "Location": "Jakarta Barat, DKI Jakarta",
+    "Age": 18,
+    "User_Lat": -6.1688,
+    "User_Long": 106.7636,
+    "City": "Jakarta Barat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 170,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 19,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 171,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 33,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 172,
+    "Location": "Palembang, Sumatera Selatan",
+    "Age": 34,
+    "User_Lat": -2.9761,
+    "User_Long": 104.7754,
+    "City": "Palembang",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 173,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 29,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 174,
+    "Location": "Sragen, Jawa Tengah",
+    "Age": 32,
+    "User_Lat": -7.425,
+    "User_Long": 111.028,
+    "City": "Sragen",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 175,
+    "Location": "Ponorogo, Jawa Timur",
+    "Age": 36,
+    "User_Lat": -7.8643,
+    "User_Long": 111.4638,
+    "City": "Ponorogo",
+    "Province": "Jawa Timur",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 176,
+    "Location": "Depok, Jawa Barat",
+    "Age": 31,
+    "User_Lat": -6.4025,
+    "User_Long": 106.7942,
+    "City": "Depok",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 177,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 35,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 178,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 33,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 179,
+    "Location": "Ponorogo, Jawa Timur",
+    "Age": 27,
+    "User_Lat": -7.8643,
+    "User_Long": 111.4638,
+    "City": "Ponorogo",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 180,
+    "Location": "Sragen, Jawa Tengah",
+    "Age": 24,
+    "User_Lat": -7.425,
+    "User_Long": 111.028,
+    "City": "Sragen",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 181,
+    "Location": "Klaten, Jawa Tengah",
+    "Age": 29,
+    "User_Lat": -7.7059,
+    "User_Long": 110.6014,
+    "City": "Klaten",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 182,
+    "Location": "Solo, Jawa Tengah",
+    "Age": 34,
+    "User_Lat": -7.5753,
+    "User_Long": 110.8243,
+    "City": "Solo",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 183,
+    "Location": "Tanggerang, Banten",
+    "Age": 37,
+    "User_Lat": -6.1783,
+    "User_Long": 106.6319,
+    "City": "Tanggerang",
+    "Province": "Banten",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 184,
+    "Location": "Serang, Banten",
+    "Age": 30,
+    "User_Lat": -6.1201,
+    "User_Long": 106.1503,
+    "City": "Serang",
+    "Province": "Banten",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 185,
+    "Location": "Cilacap, Jawa Tengah",
+    "Age": 33,
+    "User_Lat": -7.7197,
+    "User_Long": 109.0145,
+    "City": "Cilacap",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 186,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 28,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 187,
+    "Location": "Yogyakarta, DIY",
+    "Age": 25,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 188,
+    "Location": "Kota Gede, DIY",
+    "Age": 37,
+    "User_Lat": -7.8297,
+    "User_Long": 110.3961,
+    "City": "Kota Gede",
+    "Province": "DIY",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 189,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 21,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 190,
+    "Location": "Subang, Jawa Barat",
+    "Age": 18,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 191,
+    "Location": "Karawang, Jawa Barat",
+    "Age": 32,
+    "User_Lat": -6.3212,
+    "User_Long": 107.3381,
+    "City": "Karawang",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 192,
+    "Location": "Purwakarat, Jawa Barat",
+    "Age": 37,
+    "User_Lat": -6.5566,
+    "User_Long": 107.439,
+    "City": "Purwakarat",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 193,
+    "Location": "Jakarta Utara, DKI Jakarta",
+    "Age": 20,
+    "User_Lat": -6.1213,
+    "User_Long": 106.8748,
+    "City": "Jakarta Utara",
+    "Province": "DKI Jakarta",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 194,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 31,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 195,
+    "Location": "Jakarta Pusat, DKI Jakarta",
+    "Age": 29,
+    "User_Lat": -6.1805,
+    "User_Long": 106.8284,
+    "City": "Jakarta Pusat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 196,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 28,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 197,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 27,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 198,
+    "Location": "Karawang, Jawa Barat",
+    "Age": 26,
+    "User_Lat": -6.3212,
+    "User_Long": 107.3381,
+    "City": "Karawang",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 199,
+    "Location": "Subang, Jawa Barat",
+    "Age": 18,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 200,
+    "Location": "Serang, Banten",
+    "Age": 34,
+    "User_Lat": -6.1201,
+    "User_Long": 106.1503,
+    "City": "Serang",
+    "Province": "Banten",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 201,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 21,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 202,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 21,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 203,
+    "Location": "Jakarta Utara, DKI Jakarta",
+    "Age": 24,
+    "User_Lat": -6.1213,
+    "User_Long": 106.8748,
+    "City": "Jakarta Utara",
+    "Province": "DKI Jakarta",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 204,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 21,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 205,
+    "Location": "Bandung, Jawa Barat",
+    "Age": 24,
+    "User_Lat": -6.9175,
+    "User_Long": 107.6191,
+    "City": "Bandung",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 206,
+    "Location": "Surabaya, Jawa Timur",
+    "Age": 30,
+    "User_Lat": -7.2575,
+    "User_Long": 112.7521,
+    "City": "Surabaya",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 207,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 20,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 208,
+    "Location": "Yogyakarta, DIY",
+    "Age": 27,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 209,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 19,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 210,
+    "Location": "Depok, Jawa Barat",
+    "Age": 18,
+    "User_Lat": -6.4025,
+    "User_Long": 106.7942,
+    "City": "Depok",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 211,
+    "Location": "Jakarta Pusat, DKI Jakarta",
+    "Age": 22,
+    "User_Lat": -6.1805,
+    "User_Long": 106.8284,
+    "City": "Jakarta Pusat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 212,
+    "Location": "Jakarta Timur, DKI Jakarta",
+    "Age": 28,
+    "User_Lat": -6.225,
+    "User_Long": 106.9004,
+    "City": "Jakarta Timur",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 213,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 20,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 214,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 30,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 215,
+    "Location": "Yogyakarta, DIY",
+    "Age": 23,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 216,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 28,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 217,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 20,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 218,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 29,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 219,
+    "Location": "Subang, Jawa Barat",
+    "Age": 24,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 220,
+    "Location": "Jakarta Barat, DKI Jakarta",
+    "Age": 23,
+    "User_Lat": -6.1688,
+    "User_Long": 106.7636,
+    "City": "Jakarta Barat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 221,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 30,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 222,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 30,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 223,
+    "Location": "Palembang, Sumatera Selatan",
+    "Age": 20,
+    "User_Lat": -2.9761,
+    "User_Long": 104.7754,
+    "City": "Palembang",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 224,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 28,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 225,
+    "Location": "Sragen, Jawa Tengah",
+    "Age": 19,
+    "User_Lat": -7.425,
+    "User_Long": 111.028,
+    "City": "Sragen",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 226,
+    "Location": "Ponorogo, Jawa Timur",
+    "Age": 23,
+    "User_Lat": -7.8643,
+    "User_Long": 111.4638,
+    "City": "Ponorogo",
+    "Province": "Jawa Timur",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 227,
+    "Location": "Depok, Jawa Barat",
+    "Age": 25,
+    "User_Lat": -6.4025,
+    "User_Long": 106.7942,
+    "City": "Depok",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 228,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 18,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 229,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 20,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 230,
+    "Location": "Ponorogo, Jawa Timur",
+    "Age": 20,
+    "User_Lat": -7.8643,
+    "User_Long": 111.4638,
+    "City": "Ponorogo",
+    "Province": "Jawa Timur",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 231,
+    "Location": "Sragen, Jawa Tengah",
+    "Age": 28,
+    "User_Lat": -7.425,
+    "User_Long": 111.028,
+    "City": "Sragen",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 232,
+    "Location": "Klaten, Jawa Tengah",
+    "Age": 30,
+    "User_Lat": -7.7059,
+    "User_Long": 110.6014,
+    "City": "Klaten",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 233,
+    "Location": "Solo, Jawa Tengah",
+    "Age": 23,
+    "User_Lat": -7.5753,
+    "User_Long": 110.8243,
+    "City": "Solo",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 234,
+    "Location": "Tanggerang, Banten",
+    "Age": 27,
+    "User_Lat": -6.1783,
+    "User_Long": 106.6319,
+    "City": "Tanggerang",
+    "Province": "Banten",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 235,
+    "Location": "Serang, Banten",
+    "Age": 18,
+    "User_Lat": -6.1201,
+    "User_Long": 106.1503,
+    "City": "Serang",
+    "Province": "Banten",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 236,
+    "Location": "Cilacap, Jawa Tengah",
+    "Age": 23,
+    "User_Lat": -7.7197,
+    "User_Long": 109.0145,
+    "City": "Cilacap",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 237,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 20,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 238,
+    "Location": "Yogyakarta, DIY",
+    "Age": 30,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 239,
+    "Location": "Kota Gede, DIY",
+    "Age": 23,
+    "User_Lat": -7.8297,
+    "User_Long": 110.3961,
+    "City": "Kota Gede",
+    "Province": "DIY",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 240,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 22,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 241,
+    "Location": "Subang, Jawa Barat",
+    "Age": 20,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 242,
+    "Location": "Karawang, Jawa Barat",
+    "Age": 20,
+    "User_Lat": -6.3212,
+    "User_Long": 107.3381,
+    "City": "Karawang",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 243,
+    "Location": "Purwakarat, Jawa Barat",
+    "Age": 20,
+    "User_Lat": -6.5566,
+    "User_Long": 107.439,
+    "City": "Purwakarat",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 244,
+    "Location": "Jakarta Utara, DKI Jakarta",
+    "Age": 27,
+    "User_Lat": -6.1213,
+    "User_Long": 106.8748,
+    "City": "Jakarta Utara",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 245,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 27,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 246,
+    "Location": "Jakarta Pusat, DKI Jakarta",
+    "Age": 28,
+    "User_Lat": -6.1805,
+    "User_Long": 106.8284,
+    "City": "Jakarta Pusat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 247,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 28,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 248,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 29,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 249,
+    "Location": "Karawang, Jawa Barat",
+    "Age": 19,
+    "User_Lat": -6.3212,
+    "User_Long": 107.3381,
+    "City": "Karawang",
+    "Province": "Jawa Barat",
+    "Age_Group": "<25 th"
+  },
+  {
+    "User_Id": 250,
+    "Location": "Subang, Jawa Barat",
+    "Age": 27,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 251,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 29,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 252,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 30,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 253,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 34,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 254,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 34,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 255,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 30,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 256,
+    "Location": "Jakarta Utara, DKI Jakarta",
+    "Age": 39,
+    "User_Lat": -6.1213,
+    "User_Long": 106.8748,
+    "City": "Jakarta Utara",
+    "Province": "DKI Jakarta",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 257,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 25,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 258,
+    "Location": "Bandung, Jawa Barat",
+    "Age": 38,
+    "User_Lat": -6.9175,
+    "User_Long": 107.6191,
+    "City": "Bandung",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 259,
+    "Location": "Surabaya, Jawa Timur",
+    "Age": 27,
+    "User_Lat": -7.2575,
+    "User_Long": 112.7521,
+    "City": "Surabaya",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 260,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 33,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 261,
+    "Location": "Yogyakarta, DIY",
+    "Age": 38,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 262,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 38,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 263,
+    "Location": "Depok, Jawa Barat",
+    "Age": 27,
+    "User_Lat": -6.4025,
+    "User_Long": 106.7942,
+    "City": "Depok",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 264,
+    "Location": "Jakarta Pusat, DKI Jakarta",
+    "Age": 37,
+    "User_Lat": -6.1805,
+    "User_Long": 106.8284,
+    "City": "Jakarta Pusat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 265,
+    "Location": "Jakarta Timur, DKI Jakarta",
+    "Age": 30,
+    "User_Lat": -6.225,
+    "User_Long": 106.9004,
+    "City": "Jakarta Timur",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 266,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 32,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 267,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 31,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 268,
+    "Location": "Yogyakarta, DIY",
+    "Age": 32,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 269,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 36,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 270,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 25,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 271,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 37,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 272,
+    "Location": "Subang, Jawa Barat",
+    "Age": 30,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 273,
+    "Location": "Jakarta Barat, DKI Jakarta",
+    "Age": 33,
+    "User_Lat": -6.1688,
+    "User_Long": 106.7636,
+    "City": "Jakarta Barat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 274,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 38,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 275,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 34,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 276,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 39,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 277,
+    "Location": "Jakarta Utara, DKI Jakarta",
+    "Age": 29,
+    "User_Lat": -6.1213,
+    "User_Long": 106.8748,
+    "City": "Jakarta Utara",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 278,
+    "Location": "Jakarta Selatan, DKI Jakarta",
+    "Age": 40,
+    "User_Lat": -6.2615,
+    "User_Long": 106.8106,
+    "City": "Jakarta Selatan",
+    "Province": "DKI Jakarta",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 279,
+    "Location": "Bandung, Jawa Barat",
+    "Age": 28,
+    "User_Lat": -6.9175,
+    "User_Long": 107.6191,
+    "City": "Bandung",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 280,
+    "Location": "Surabaya, Jawa Timur",
+    "Age": 40,
+    "User_Lat": -7.2575,
+    "User_Long": 112.7521,
+    "City": "Surabaya",
+    "Province": "Jawa Timur",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 281,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 30,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 282,
+    "Location": "Yogyakarta, DIY",
+    "Age": 39,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 283,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 37,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 284,
+    "Location": "Depok, Jawa Barat",
+    "Age": 29,
+    "User_Lat": -6.4025,
+    "User_Long": 106.7942,
+    "City": "Depok",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 285,
+    "Location": "Jakarta Pusat, DKI Jakarta",
+    "Age": 29,
+    "User_Lat": -6.1805,
+    "User_Long": 106.8284,
+    "City": "Jakarta Pusat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 286,
+    "Location": "Jakarta Timur, DKI Jakarta",
+    "Age": 35,
+    "User_Lat": -6.225,
+    "User_Long": 106.9004,
+    "City": "Jakarta Timur",
+    "Province": "DKI Jakarta",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 287,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 27,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 288,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 30,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 289,
+    "Location": "Yogyakarta, DIY",
+    "Age": 35,
+    "User_Lat": -7.7956,
+    "User_Long": 110.3695,
+    "City": "Yogyakarta",
+    "Province": "DIY",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 290,
+    "Location": "Cirebon, Jawa Barat",
+    "Age": 34,
+    "User_Lat": -6.7063,
+    "User_Long": 108.557,
+    "City": "Cirebon",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 291,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 25,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 292,
+    "Location": "Semarang, Jawa Tengah",
+    "Age": 29,
+    "User_Lat": -7.0051,
+    "User_Long": 110.4381,
+    "City": "Semarang",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 293,
+    "Location": "Subang, Jawa Barat",
+    "Age": 34,
+    "User_Lat": -6.5694,
+    "User_Long": 107.7602,
+    "City": "Subang",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 294,
+    "Location": "Jakarta Barat, DKI Jakarta",
+    "Age": 28,
+    "User_Lat": -6.1688,
+    "User_Long": 106.7636,
+    "City": "Jakarta Barat",
+    "Province": "DKI Jakarta",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 295,
+    "Location": "Bekasi, Jawa Barat",
+    "Age": 31,
+    "User_Lat": -6.2349,
+    "User_Long": 106.9896,
+    "City": "Bekasi",
+    "Province": "Jawa Barat",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 296,
+    "Location": "Lampung, Sumatera Selatan",
+    "Age": 31,
+    "User_Lat": -5.4295,
+    "User_Long": 105.261,
+    "City": "Lampung",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 297,
+    "Location": "Palembang, Sumatera Selatan",
+    "Age": 39,
+    "User_Lat": -2.9761,
+    "User_Long": 104.7754,
+    "City": "Palembang",
+    "Province": "Sumatera Selatan",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 298,
+    "Location": "Bogor, Jawa Barat",
+    "Age": 38,
+    "User_Lat": -6.5971,
+    "User_Long": 106.806,
+    "City": "Bogor",
+    "Province": "Jawa Barat",
+    "Age_Group": "35-44 th"
+  },
+  {
+    "User_Id": 299,
+    "Location": "Sragen, Jawa Tengah",
+    "Age": 27,
+    "User_Lat": -7.425,
+    "User_Long": 111.028,
+    "City": "Sragen",
+    "Province": "Jawa Tengah",
+    "Age_Group": "25-34 th"
+  },
+  {
+    "User_Id": 300,
+    "Location": "Ponorogo, Jawa Timur",
+    "Age": 26,
+    "User_Lat": -7.8643,
+    "User_Long": 111.4638,
+    "City": "Ponorogo",
+    "Province": "Jawa Timur",
+    "Age_Group": "25-34 th"
+  }
+]

@@ -1,0 +1,180 @@
+/* ================================================================
+   Peta Wisata Indonesia — style.css
+   ================================================================ */
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg-0:  #05101f;
+  --bg-1:  #091828;
+  --bg-2:  #0e2038;
+  --bg-3:  #132840;
+
+  --bd:    #1a3352;
+  --bd-2:  #275070;
+
+  --tx-1:  #d8eeff;
+  --tx-2:  #6a92b8;
+  --tx-3:  #324e6a;
+
+  --accent:  #00d4aa;
+  --accent2: #00a884;
+
+  /* Peta — ocean vs land harus kontras jelas */
+  --ocean:    #04111f;          /* sangat gelap */
+  --land:     #1e4d70;          /* biru-slate sedang — jelas beda dari ocean */
+  --land-s:   #3a82b0;          /* stroke biru lebih terang */
+  --land-h:   #255a80;          /* hover state */
+  --grid:     #0c1e30;
+
+  --c-taman:   #ff5e5e;
+  --c-budaya:  #a78bfa;
+  --c-alam:    #4ade80;
+  --c-bahari:  #38bdf8;
+  --c-ibadah:  #fbbf24;
+  --c-belanja: #fb923c;
+
+  --font: 'Outfit', system-ui, sans-serif;
+  --mono: 'Space Mono', monospace;
+  --r: 8px;
+  --sh: 0 12px 40px rgba(0,0,0,.65);
+}
+
+html, body { height: 100%; overflow: hidden; background: var(--bg-0); color: var(--tx-1); font-family: var(--font); }
+body { display: flex; flex-direction: column; }
+
+/* ── Header ─────────────────────────────────── */
+.header {
+  flex-shrink: 0;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 11px 22px; background: var(--bg-1); border-bottom: 1px solid var(--bd);
+  gap: 16px; min-height: 58px;
+}
+.brand { display: flex; align-items: center; gap: 12px; }
+.brand-icon { filter: drop-shadow(0 0 8px var(--accent)); flex-shrink: 0; }
+.brand-title { font-size: 16px; font-weight: 700; color: #fff; letter-spacing: -.2px; line-height: 1.2; }
+.brand-sub { font-size: 10.5px; color: var(--tx-3); font-family: var(--mono); margin-top: 2px; }
+
+.kpi-row { display: flex; align-items: center; background: var(--bg-2); border: 1px solid var(--bd); border-radius: var(--r); overflow: hidden; }
+.kpi { display: flex; flex-direction: column; align-items: center; padding: 7px 18px; }
+.kpi-val { font-size: 19px; font-weight: 700; color: var(--accent); font-family: var(--mono); line-height: 1; transition: color .3s; }
+.kpi-lbl { font-size: 9.5px; color: var(--tx-3); text-transform: uppercase; letter-spacing: .6px; margin-top: 2px; }
+.kpi-sep { width: 1px; height: 32px; background: var(--bd); }
+
+/* ── Toolbar ─────────────────────────────────── */
+.toolbar {
+  flex-shrink: 0;
+  display: flex; align-items: center; gap: 16px;
+  padding: 7px 22px; background: var(--bg-1); border-bottom: 1px solid var(--bd);
+  flex-wrap: wrap; min-height: 44px;
+}
+.tbar-group { display: flex; align-items: center; gap: 8px; }
+.tbar-lbl { font-size: 10.5px; color: var(--tx-3); font-family: var(--mono); white-space: nowrap; }
+.tbar-right { margin-left: auto; }
+
+.pill-row { display: flex; gap: 5px; flex-wrap: wrap; }
+.pill {
+  padding: 3px 12px; border-radius: 20px; border: 1px solid var(--bd);
+  background: transparent; color: var(--tx-2);
+  font-size: 11.5px; font-family: var(--font); font-weight: 500;
+  cursor: pointer; transition: all .2s; white-space: nowrap;
+}
+.pill:hover { border-color: var(--accent); color: var(--accent); }
+.pill-all.active { background: var(--accent); border-color: var(--accent); color: #000; }
+
+.cbtn-row { display: flex; gap: 4px; flex-wrap: wrap; }
+.cbtn {
+  padding: 3px 10px; border-radius: 6px; border: 1px solid var(--bd);
+  background: transparent; color: var(--tx-2);
+  font-size: 11px; font-family: var(--font); cursor: pointer; transition: all .2s;
+}
+.cbtn:hover, .cbtn.active { border-color: var(--accent2); color: var(--accent2); background: rgba(0,212,170,.08); }
+
+.zbtn-row { display: flex; gap: 3px; }
+.zbtn {
+  width: 30px; height: 30px; border: 1px solid var(--bd); border-radius: 6px;
+  background: var(--bg-2); color: var(--tx-2); font-size: 15px;
+  cursor: pointer; transition: all .18s;
+  display: flex; align-items: center; justify-content: center;
+}
+.zbtn:hover { border-color: var(--accent); color: var(--accent); }
+.zbtn:active { transform: scale(.9); }
+
+/* ── Map ─────────────────────────────────────── */
+.map-area { flex: 1 1 auto; position: relative; background: var(--ocean); overflow: hidden; min-height: 0; }
+#map-svg { width: 100%; height: 100%; display: block; cursor: grab; }
+#map-svg:active { cursor: grabbing; }
+
+/* Elemen SVG peta */
+.ocean-bg  { fill: var(--ocean); }
+.graticule { fill: none; stroke: var(--grid); stroke-width: .4; }
+
+/* Pulau — warna kontras terhadap ocean */
+.island-path {
+  fill: var(--land);
+  stroke: var(--land-s);
+  stroke-width: 1;
+  transition: fill .25s;
+}
+.island-path:hover { fill: var(--land-h); }
+
+.city-label { font-family: var(--mono); fill: var(--tx-2); text-anchor: middle; pointer-events: none; font-weight: 700; }
+.city-dot   { fill: var(--accent2); pointer-events: none; }
+
+/* Titik wisata */
+.place-dot { cursor: pointer; transition: opacity .22s; }
+.place-dot.dimmed { opacity: .04; pointer-events: none; }
+
+/* ── Tooltip ─────────────────────────────────── */
+.tooltip {
+  position: absolute; min-width: 210px; max-width: 270px;
+  background: rgba(5,14,28,.97); border: 1px solid var(--bd-2);
+  border-radius: 10px; padding: 14px 16px;
+  pointer-events: none; z-index: 300;
+  box-shadow: var(--sh); backdrop-filter: blur(14px);
+  transition: opacity .14s;
+}
+.tooltip.hidden { opacity: 0; }
+.tt-name  { font-size: 13px; font-weight: 600; color: #fff; line-height: 1.35; margin-bottom: 8px; }
+.tt-badge { display: inline-flex; align-items: center; font-size: 11px; font-weight: 500; padding: 3px 10px; border-radius: 14px; margin-bottom: 10px; }
+.tt-rows  { display: flex; flex-direction: column; gap: 5px; }
+.tt-row   { display: flex; justify-content: space-between; align-items: center; font-size: 11.5px; }
+.tt-row .lbl { color: var(--tx-2); }
+.tt-row .val { color: var(--tx-1); font-weight: 500; font-family: var(--mono); font-size: 11px; }
+.tt-stars    { letter-spacing: 1.5px; }
+.tt-div      { height: 1px; background: var(--bd); margin: 5px 0; }
+
+/* ── Overlay ─────────────────────────────────── */
+.map-overlay {
+  position: absolute; inset: 0;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 14px; background: var(--ocean);
+  font-size: 13px; color: var(--tx-2);
+  z-index: 200; transition: opacity .4s; text-align: center; padding: 24px;
+}
+.map-overlay.hidden { opacity: 0; pointer-events: none; }
+.spinner { width: 38px; height: 38px; border: 2px solid var(--bd-2); border-top-color: var(--accent); border-radius: 50%; animation: spin .75s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.ov-err-title { font-size: 15px; color: #ff5e5e; font-weight: 600; }
+.ov-err-hint  { font-size: 12px; color: var(--tx-2); line-height: 2; }
+.ov-err-hint code { background: var(--bg-2); padding: 2px 6px; border-radius: 4px; font-family: var(--mono); color: var(--accent); }
+
+/* ── Legend ──────────────────────────────────── */
+.legend-bar {
+  flex-shrink: 0;
+  display: flex; align-items: center;
+  padding: 9px 22px; gap: 0;
+  background: var(--bg-1); border-top: 1px solid var(--bd);
+  flex-wrap: wrap; row-gap: 6px; min-height: 50px;
+}
+.leg-block { display: flex; flex-direction: column; gap: 6px; padding-right: 22px; }
+.leg-title { font-size: 9.5px; text-transform: uppercase; letter-spacing: .7px; color: var(--tx-3); font-family: var(--mono); }
+.leg-cats { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+.leg-cat-item { display: flex; align-items: center; gap: 5px; font-size: 11.5px; color: var(--tx-2); cursor: pointer; transition: color .2s; }
+.leg-cat-item:hover { color: var(--tx-1); }
+.leg-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+.leg-sizes { display: flex; align-items: center; gap: 12px; }
+.lsz-item  { display: flex; align-items: center; gap: 4px; font-size: 11px; color: var(--tx-2); font-family: var(--mono); }
+.leg-src { font-size: 10.5px; color: var(--tx-3); font-family: var(--mono); max-width: 380px; }
+.leg-src em { color: var(--accent2); font-style: normal; }
+.leg-sep { width: 1px; height: 40px; background: var(--bd); margin: 0 22px 0 0; flex-shrink: 0; }

@@ -1,0 +1,1002 @@
+[
+  {
+    "Package": 1,
+    "City": "Jakarta",
+    "Place_Tourism1": "Pasar Tanah Abang",
+    "Place_Tourism2": "Taman Ayodya",
+    "Place_Tourism3": "Museum Tekstil",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 2,
+    "City": "Jakarta",
+    "Place_Tourism1": "Pasar Tanah Abang",
+    "Place_Tourism2": "Pasar Taman Puring",
+    "Place_Tourism3": "Pasar Petak Sembilan",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 3,
+    "City": "Jakarta",
+    "Place_Tourism1": "Perpustakaan Nasional",
+    "Place_Tourism2": "Monas",
+    "Place_Tourism3": "Masjid Istiqlal",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 4,
+    "City": "Jakarta",
+    "Place_Tourism1": "Pulau Tidung",
+    "Place_Tourism2": "Pulau Bidadari",
+    "Place_Tourism3": "Pulau Pari",
+    "Place_Tourism4": "Pulau Pramuka",
+    "Place_Tourism5": "Pulau Pelangi",
+    "Total_Places": 5
+  },
+  {
+    "Package": 5,
+    "City": "Jakarta",
+    "Place_Tourism1": "Museum Satria Mandala",
+    "Place_Tourism2": "Museum Wayang",
+    "Place_Tourism3": "Museum Bahari Jakarta",
+    "Place_Tourism4": "Museum Macan (Modern and Contemporary Art in Nusantara)",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 6,
+    "City": "Jakarta",
+    "Place_Tourism1": "Waterboom PIK (Pantai Indah Kapuk)",
+    "Place_Tourism2": "Jakarta Aquarium dan Safari",
+    "Place_Tourism3": "SnowBay Waterpark",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 7,
+    "City": "Jakarta",
+    "Place_Tourism1": "Alive Museum Ancol",
+    "Place_Tourism2": "Ocean Ecopark",
+    "Place_Tourism3": "SnowBay Waterpark",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 8,
+    "City": "Jakarta",
+    "Place_Tourism1": "Kota Tua",
+    "Place_Tourism2": "Museum Bank Indonesia",
+    "Place_Tourism3": "Monas",
+    "Place_Tourism4": "Perpustakaan Nasional",
+    "Place_Tourism5": "Masjid Istiqlal",
+    "Total_Places": 5
+  },
+  {
+    "Package": 9,
+    "City": "Jakarta",
+    "Place_Tourism1": "Galeri Nasional Indonesia",
+    "Place_Tourism2": "Museum Seni Rupa dan Kramik",
+    "Place_Tourism3": "Galeri Indonesia Kaya",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 10,
+    "City": "Jakarta",
+    "Place_Tourism1": "Taman Impian Jaya Ancol",
+    "Place_Tourism2": "Kota Tua",
+    "Place_Tourism3": "Museum Bank Indonesia",
+    "Place_Tourism4": "Museum Fatahillah",
+    "Place_Tourism5": "Museum Wayang",
+    "Total_Places": 5
+  },
+  {
+    "Package": 11,
+    "City": "Jakarta",
+    "Place_Tourism1": "Kota Tua",
+    "Place_Tourism2": "Jembatan Kota Intan",
+    "Place_Tourism3": "Klenteng Jin De Yuan",
+    "Place_Tourism4": "Wisata Kuliner Pecenongan",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 12,
+    "City": "Jakarta",
+    "Place_Tourism1": "Hutan Kota Srengseng",
+    "Place_Tourism2": "Taman Cattleya",
+    "Place_Tourism3": "Freedom Library",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 13,
+    "City": "Jakarta",
+    "Place_Tourism1": "Taman Mini Indonesia Indah (TMII)",
+    "Place_Tourism2": "Museum Satria Mandala",
+    "Place_Tourism3": "Pasar Tanah Abang",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 14,
+    "City": "Jakarta",
+    "Place_Tourism1": "Pasar Tanah Abang",
+    "Place_Tourism2": "Pasar Taman Puring",
+    "Place_Tourism3": "Pasar Seni",
+    "Place_Tourism4": "Pasar Petak Sembilan",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 15,
+    "City": "Jakarta",
+    "Place_Tourism1": "Mall Thamrin City",
+    "Place_Tourism2": "Grand Indonesia Mall",
+    "Place_Tourism3": "Plaza Indonesia",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 16,
+    "City": "Jakarta",
+    "Place_Tourism1": "Museum Joang 45",
+    "Place_Tourism2": "Museum Fatahillah",
+    "Place_Tourism3": "Museum Bank Indonesia",
+    "Place_Tourism4": "Museum Taman Prasasti",
+    "Place_Tourism5": "Museum Nasional",
+    "Total_Places": 5
+  },
+  {
+    "Package": 17,
+    "City": "Jakarta",
+    "Place_Tourism1": "Museum Sumpah Pemuda",
+    "Place_Tourism2": "Tugu Proklamasi",
+    "Place_Tourism3": "Museum Basoeki Abdullah",
+    "Place_Tourism4": "Museum Layang-layang",
+    "Place_Tourism5": "Museum Perangko",
+    "Total_Places": 5
+  },
+  {
+    "Package": 18,
+    "City": "Jakarta",
+    "Place_Tourism1": "Klenteng Jin De Yuan",
+    "Place_Tourism2": "Masjid Istiqlal",
+    "Place_Tourism3": "Gereja Katedral",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 19,
+    "City": "Jakarta",
+    "Place_Tourism1": "Taman Menteng",
+    "Place_Tourism2": "Taman Suropati",
+    "Place_Tourism3": "Taman Lapangan Banteng",
+    "Place_Tourism4": "Taman Cattleya",
+    "Place_Tourism5": "Taman Spathodea",
+    "Total_Places": 5
+  },
+  {
+    "Package": 20,
+    "City": "Jakarta",
+    "Place_Tourism1": "Wisata Agro Edukatif Istana Susu Cibugary",
+    "Place_Tourism2": "Bumi Perkemahan Cibubur",
+    "Place_Tourism3": "Taman Situ Lembang",
+    "Place_Tourism4": "Taman Agrowisata Cilangkap",
+    "Place_Tourism5": "Taman Lapangan Banteng",
+    "Total_Places": 5
+  },
+  {
+    "Package": 21,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Nol Kilometer Jl.Malioboro",
+    "Place_Tourism2": "Alun Alun Selatan Yogyakarta",
+    "Place_Tourism3": "Tugu Pal Putih Jogja",
+    "Place_Tourism4": "Bukit Lintang Sewu",
+    "Place_Tourism5": "Bendung Lepen",
+    "Total_Places": 5
+  },
+  {
+    "Package": 22,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Air Terjun Kedung Pedut",
+    "Place_Tourism2": "Puncak Gunung Api Purba - Nglanggeran",
+    "Place_Tourism3": "Watu Mabur Mangunan",
+    "Place_Tourism4": "Geoforest Watu Payung Turunan",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 23,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Alun-alun Utara Keraton Yogyakarta",
+    "Place_Tourism2": "Candi Ijo",
+    "Place_Tourism3": "Monumen Sanapati",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 24,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Pantai Indrayanti",
+    "Place_Tourism2": "Pantai Nglambor",
+    "Place_Tourism3": "Pantai Parangtritis",
+    "Place_Tourism4": "Pantai Sundak",
+    "Place_Tourism5": "Pantai Krakal",
+    "Total_Places": 5
+  },
+  {
+    "Package": 25,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Candi Ijo",
+    "Place_Tourism2": "Pasar Beringharjo",
+    "Place_Tourism3": "Sindu Kusuma Edupark (SKE)",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 26,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Hutan Pinus Pengger",
+    "Place_Tourism2": "Bentara Budaya Yogyakarta (BBY)",
+    "Place_Tourism3": "Desa Wisata Pulesari",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 27,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Candi Prambanan",
+    "Place_Tourism2": "Candi Borobudur",
+    "Place_Tourism3": "Kawasan Malioboro",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 28,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Pantai Patihan",
+    "Place_Tourism2": "Pantai Kukup",
+    "Place_Tourism3": "Hutan Mangrove Kulon Progo",
+    "Place_Tourism4": "Pantai Nguluran",
+    "Place_Tourism5": "Pantai Samas",
+    "Total_Places": 5
+  },
+  {
+    "Package": 29,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Gembira Loka Zoo",
+    "Place_Tourism2": "Kampung Wisata Kadipaten",
+    "Place_Tourism3": "Tebing Breksi",
+    "Place_Tourism4": "Embung Tambakboyo",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 30,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "The Lost World Castle",
+    "Place_Tourism2": "Monumen Sanapati",
+    "Place_Tourism3": "Green Village Gedangsari",
+    "Place_Tourism4": "Pantai Depok Jogja",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 31,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Puncak Segoro",
+    "Place_Tourism2": "Taman Pelangi Jogja",
+    "Place_Tourism3": "Galaxy Waterpark Jogja",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 32,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Bukit Wisata Pulepayung",
+    "Place_Tourism2": "Hutan Pinus Asri",
+    "Place_Tourism3": "Kebun Teh Nglinggo",
+    "Place_Tourism4": "Goa Pindul",
+    "Place_Tourism5": "Wisata Kalibiru",
+    "Total_Places": 5
+  },
+  {
+    "Package": 33,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Pantai Glagah",
+    "Place_Tourism2": "Pantai Drini",
+    "Place_Tourism3": "Pantai Wediombo",
+    "Place_Tourism4": "Pantai Jogan",
+    "Place_Tourism5": "Pantai Ngrenehan",
+    "Total_Places": 5
+  },
+  {
+    "Package": 34,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Desa Wisata Sungai Code Jogja Kota",
+    "Place_Tourism2": "Kawasan Malioboro",
+    "Place_Tourism3": "Kauman Pakualaman Yogyakarta",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 35,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Kampung Wisata Taman Sari",
+    "Place_Tourism2": "Monumen Serangan Umum 1 Maret",
+    "Place_Tourism3": "Puncak Kebun Buah Mangunan",
+    "Place_Tourism4": "Seribu Batu Songgo Langit",
+    "Place_Tourism5": "Bukit Paralayang, Watugupit",
+    "Total_Places": 5
+  },
+  {
+    "Package": 36,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Jurang Tembelan Kanigoro",
+    "Place_Tourism2": "Lava Bantal",
+    "Place_Tourism3": "Watu Goyang",
+    "Place_Tourism4": "Watu Lumbung",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 37,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "De Mata Museum Jogja",
+    "Place_Tourism2": "Kampung Wisata Kadipaten",
+    "Place_Tourism3": "Tebing Breksi",
+    "Place_Tourism4": "Bentara Budaya Yogyakarta (BBY)",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 38,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Watu Lumbung",
+    "Place_Tourism2": "Bunker Kaliadem Merapi",
+    "Place_Tourism3": "Goa Rancang Kencono",
+    "Place_Tourism4": "Pintoe Langit Dahromo",
+    "Place_Tourism5": "Wisata Kaliurang",
+    "Total_Places": 5
+  },
+  {
+    "Package": 39,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Sindu Kusuma Edupark (SKE)",
+    "Place_Tourism2": "Taman Pelangi Yogyakarta",
+    "Place_Tourism3": "The Lost World Castle",
+    "Place_Tourism4": "The World Landmarks - Merapi Park Yogyakarta",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 40,
+    "City": "Yogyakarta",
+    "Place_Tourism1": "Pasar Beringharjo",
+    "Place_Tourism2": "Pasar Kebon Empring Bintaran",
+    "Place_Tourism3": "Kawasan Wisata Sosrowijayan",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 41,
+    "City": "Bandung",
+    "Place_Tourism1": "Dago Dreampark",
+    "Place_Tourism2": "Orchid Forest Cikole",
+    "Place_Tourism3": "Jendela Alam",
+    "Place_Tourism4": "Sudut Pandang Bandung",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 42,
+    "City": "Bandung",
+    "Place_Tourism1": "Gunung Tangkuban Perahu",
+    "Place_Tourism2": "Gunung Papandayan",
+    "Place_Tourism3": "Gunung Manglayang",
+    "Place_Tourism4": "Curug Dago",
+    "Place_Tourism5": "Curug Batu Templek",
+    "Total_Places": 5
+  },
+  {
+    "Package": 43,
+    "City": "Bandung",
+    "Place_Tourism1": "Museum Geologi Bandung",
+    "Place_Tourism2": "Museum Sri Baduga",
+    "Place_Tourism3": "Museum Pendidikan Nasional",
+    "Place_Tourism4": "Taman Film",
+    "Place_Tourism5": "Museum Nike Ardilla",
+    "Total_Places": 5
+  },
+  {
+    "Package": 44,
+    "City": "Bandung",
+    "Place_Tourism1": "Museum Konferensi Asia Afrika",
+    "Place_Tourism2": "Monumen Perjuangan Rakyat Jawa Barat",
+    "Place_Tourism3": "Museum Mandala Wangsit Siliwangi",
+    "Place_Tourism4": "Taman Sejarah Bandung",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 45,
+    "City": "Bandung",
+    "Place_Tourism1": "Kyotoku Floating Market",
+    "Place_Tourism2": "Mountain View Golf Club",
+    "Place_Tourism3": "Trans Studio Bandung",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 46,
+    "City": "Bandung",
+    "Place_Tourism1": "Glamping Lakeside Rancabali",
+    "Place_Tourism2": "Taman Miniatur Kereta Api",
+    "Place_Tourism3": "Kota Mini",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 47,
+    "City": "Bandung",
+    "Place_Tourism1": "Gereja Katedral Santo Petrus Bandung",
+    "Place_Tourism2": "Masjid Pusdai",
+    "Place_Tourism3": "Masjid Al-Imtizaj",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 48,
+    "City": "Bandung",
+    "Place_Tourism1": "Caringin Tilu",
+    "Place_Tourism2": "Curug Anom",
+    "Place_Tourism3": "Bukit Jamur",
+    "Place_Tourism4": "Kebun Tanaman Obat Sari Alam",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 49,
+    "City": "Bandung",
+    "Place_Tourism1": "NuArt Sculpture Park",
+    "Place_Tourism2": "Pesona Nirwana Waterpark & Cottages",
+    "Place_Tourism3": " Panama Park 825",
+    "Place_Tourism4": "Water Park Bandung Indah",
+    "Place_Tourism5": "Chingu Cafe Little Seoul",
+    "Total_Places": 5
+  },
+  {
+    "Package": 50,
+    "City": "Bandung",
+    "Place_Tourism1": "Taman Hutan Raya Ir. H. Djuanda",
+    "Place_Tourism2": "Tebing Karaton",
+    "Place_Tourism3": "Kampung Korea Bandung",
+    "Place_Tourism4": "Kiara Artha Park",
+    "Place_Tourism5": "| Peta Park",
+    "Total_Places": 5
+  },
+  {
+    "Package": 51,
+    "City": "Bandung",
+    "Place_Tourism1": "Situ Patenggang",
+    "Place_Tourism2": "Rainbow Garden",
+    "Place_Tourism3": "Kota Mini",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 52,
+    "City": "Bandung",
+    "Place_Tourism1": "Taman Begonia",
+    "Place_Tourism2": "Curug Malela",
+    "Place_Tourism3": "Taman Kupu-Kupu Cihanjuang",
+    "Place_Tourism4": "Gua Pawon",
+    "Place_Tourism5": "Stone Garden Geopark",
+    "Total_Places": 5
+  },
+  {
+    "Package": 53,
+    "City": "Bandung",
+    "Place_Tourism1": "Alun-Alun Kota Bandung",
+    "Place_Tourism2": "Taman Balai Kota Bandung",
+    "Place_Tourism3": "Teras Cikapundung BBWS",
+    "Place_Tourism4": "Taman Vanda",
+    "Place_Tourism5": "Ade Irma Suryani Nasution Traffic Park",
+    "Total_Places": 5
+  },
+  {
+    "Package": 54,
+    "City": "Bandung",
+    "Place_Tourism1": "Rainbow Garden",
+    "Place_Tourism2": "Kota Mini",
+    "Place_Tourism3": "Rainbow Garden",
+    "Place_Tourism4": "Kota Mini",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 55,
+    "City": "Bandung",
+    "Place_Tourism1": "Masjid Raya Bandung",
+    "Place_Tourism2": "Taman Lansia",
+    "Place_Tourism3": "Monumen Bandung Lautan Api",
+    "Place_Tourism4": "Museum Pos Indonesia",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 56,
+    "City": "Bandung",
+    "Place_Tourism1": "Kawah Putih",
+    "Place_Tourism2": "Panghegar Waterboom Bandung",
+    "Place_Tourism3": "Saung Angklung Mang Udjo",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 57,
+    "City": "Bandung",
+    "Place_Tourism1": "Museum Gedung Sate",
+    "Place_Tourism2": "Roemah Seni Sarasvati",
+    "Place_Tourism3": "Museum Pendidikan Nasional",
+    "Place_Tourism4": "Taman Film",
+    "Place_Tourism5": "Museum Nike Ardilla",
+    "Total_Places": 5
+  },
+  {
+    "Package": 58,
+    "City": "Bandung",
+    "Place_Tourism1": "Kebun Binatang Bandung",
+    "Place_Tourism2": "Lembang Park & Zoo",
+    "Place_Tourism3": "Curug Cipanas",
+    "Place_Tourism4": "Tafso Barn",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 59,
+    "City": "Bandung",
+    "Place_Tourism1": "Kawasan Punclut",
+    "Place_Tourism2": "Lawangwangi Creative Space",
+    "Place_Tourism3": "Curug Tilu Leuwi Opat",
+    "Place_Tourism4": "Taman Budaya Jawa Barat",
+    "Place_Tourism5": "Curug Bugbrug",
+    "Total_Places": 5
+  },
+  {
+    "Package": 60,
+    "City": "Bandung",
+    "Place_Tourism1": "Curug Dago",
+    "Place_Tourism2": "Curug Batu Templek",
+    "Place_Tourism3": "Curug Aseupan",
+    "Place_Tourism4": "Curug Anom",
+    "Place_Tourism5": "Curug Luhur Waterfall",
+    "Total_Places": 5
+  },
+  {
+    "Package": 61,
+    "City": "Semarang",
+    "Place_Tourism1": "Candi Gedong Songo",
+    "Place_Tourism2": "Lawang Sewu",
+    "Place_Tourism3": "Sam Poo Kong Temple",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 62,
+    "City": "Semarang",
+    "Place_Tourism1": "Grand Maerakaca",
+    "Place_Tourism2": "Kampung Pelangi",
+    "Place_Tourism3": "Desa Wisata Lembah Kalipancur",
+    "Place_Tourism4": "Taman Kasmaran",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 63,
+    "City": "Semarang",
+    "Place_Tourism1": "Pantai Baruna",
+    "Place_Tourism2": "Pantai Marina",
+    "Place_Tourism3": " Pantai Cipta",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 64,
+    "City": "Semarang",
+    "Place_Tourism1": "Indonesia Kaya Park",
+    "Place_Tourism2": "Taman Pandanaran",
+    "Place_Tourism3": "Taman Srigunting",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 65,
+    "City": "Semarang",
+    "Place_Tourism1": "Jembatan Biru Ambarawa",
+    "Place_Tourism2": "Masjid Agung Ungaran",
+    "Place_Tourism3": "Tugu Muda Semarang",
+    "Place_Tourism4": "Taman Tabanas",
+    "Place_Tourism5": "Kampung Tematik Jawi",
+    "Total_Places": 5
+  },
+  {
+    "Package": 66,
+    "City": "Semarang",
+    "Place_Tourism1": "Air Terjun Semirang",
+    "Place_Tourism2": "Obyek Wisata Goa Kreo",
+    "Place_Tourism3": "Watu Gunung Ungaran",
+    "Place_Tourism4": "Brown Canyon",
+    "Place_Tourism5": "Durian Gardens and Tourism Education Watu Simbar",
+    "Total_Places": 5
+  },
+  {
+    "Package": 67,
+    "City": "Semarang",
+    "Place_Tourism1": "Saloka Theme Park",
+    "Place_Tourism2": "Water Blaster Bukit Candi Golf",
+    "Place_Tourism3": "Kampoeng Kopi Banaran",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 68,
+    "City": "Semarang",
+    "Place_Tourism1": "Water Blaster Bukit Candi Golf",
+    "Place_Tourism2": "Kampung Batik Gedong Semarang",
+    "Place_Tourism3": "Semarang Gallery",
+    "Place_Tourism4": "Flower Farm Setiya Aji",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 69,
+    "City": "Semarang",
+    "Place_Tourism1": "Waduk Jatibarang",
+    "Place_Tourism2": "Wisata Lereng Kelir",
+    "Place_Tourism3": "Kampoeng Rawa",
+    "Place_Tourism4": "Wisata Eling Bening",
+    "Place_Tourism5": "Gua Maria Kerep Ambarawa",
+    "Total_Places": 5
+  },
+  {
+    "Package": 70,
+    "City": "Semarang",
+    "Place_Tourism1": "Kampoeng Djadhoel Semarang",
+    "Place_Tourism2": "Pura Giri Natha",
+    "Place_Tourism3": "Old City 3D Trick Art Museum",
+    "Place_Tourism4": "Semarang Contemporary Art Gallery",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 71,
+    "City": "Semarang",
+    "Place_Tourism1": "Wisata Lereng Kelir",
+    "Place_Tourism2": "Monumen Palagan Ambarawa",
+    "Place_Tourism3": "Benteng Pendem",
+    "Place_Tourism4": "Museum Kereta Ambarawa",
+    "Place_Tourism5": "Hutan Pinus Kayon",
+    "Total_Places": 5
+  },
+  {
+    "Package": 72,
+    "City": "Semarang",
+    "Place_Tourism1": "GPIB Immanuel Semarang (Gereja Blenduk)",
+    "Place_Tourism2": "Masjid Kapal Semarang",
+    "Place_Tourism3": "Masjid Agung Ungaran",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 73,
+    "City": "Semarang",
+    "Place_Tourism1": "Monumen Palagan Ambarawa",
+    "Place_Tourism2": "Benteng Pendem",
+    "Place_Tourism3": "Museum Kereta Ambarawa",
+    "Place_Tourism4": "Kota Lama Semarang",
+    "Place_Tourism5": "Semarang Chinatown",
+    "Total_Places": 5
+  },
+  {
+    "Package": 74,
+    "City": "Semarang",
+    "Place_Tourism1": "Kampung Pelangi",
+    "Place_Tourism2": "Hutan Wisata Tinjomoyo Semarang",
+    "Place_Tourism3": "Taman Kasmaran",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 75,
+    "City": "Semarang",
+    "Place_Tourism1": "Wisata Mangrove Tapak",
+    "Place_Tourism2": "Umbul Sidomukti",
+    "Place_Tourism3": "Wisata Alam Wana Wisata Penggaron",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 76,
+    "City": "Semarang",
+    "Place_Tourism1": "Candi Gedong Songo",
+    "Place_Tourism2": "Grand Maerakaca",
+    "Place_Tourism3": "Lawang Sewu",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 77,
+    "City": "Semarang",
+    "Place_Tourism1": "Tirto Argo Siwarak",
+    "Place_Tourism2": "Wisata Eling Bening",
+    "Place_Tourism3": "Semarang Chinatown",
+    "Place_Tourism4": "La Kana Chapel",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 78,
+    "City": "Semarang",
+    "Place_Tourism1": "Pantai Baruna",
+    "Place_Tourism2": "Pantai Marina",
+    "Place_Tourism3": "Wisata Mangrove Tapak",
+    "Place_Tourism4": "Pantai Cipta",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 79,
+    "City": "Semarang",
+    "Place_Tourism1": "Waduk Jatibarang",
+    "Place_Tourism2": "Kampoeng Rawa",
+    "Place_Tourism3": "Gua Maria Kerep Ambarawa",
+    "Place_Tourism4": "Kota Lama Semarang",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 80,
+    "City": "Semarang",
+    "Place_Tourism1": "Desa Wisata Lembah Kalipancur",
+    "Place_Tourism2": "Masjid Kapal Semarang",
+    "Place_Tourism3": "Kota Lama Semarang",
+    "Place_Tourism4": "Brown Canyon",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 81,
+    "City": "Surabaya",
+    "Place_Tourism1": "Taman Prestasi",
+    "Place_Tourism2": "Taman Keputran",
+    "Place_Tourism3": "Taman Bungkul",
+    "Place_Tourism4": "Taman Flora Bratang Surabaya",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 82,
+    "City": "Surabaya",
+    "Place_Tourism1": "Museum Sepuluh Nopember Kota Surabaya",
+    "Place_Tourism2": "Museum Kesehatan Dr. Adhyatma",
+    "Place_Tourism3": "Patung Buddha Empat Rupa",
+    "Place_Tourism4": "Museum TNI AL Loka Jala Crana",
+    "Place_Tourism5": "Keraton Surabaya",
+    "Total_Places": 5
+  },
+  {
+    "Package": 83,
+    "City": "Surabaya",
+    "Place_Tourism1": "Masjid Muhammad Cheng Hoo",
+    "Place_Tourism2": "Masjid Nasional Al-Akbar",
+    "Place_Tourism3": "Klenteng Sanggar Agung",
+    "Place_Tourism4": "Patung Buddha Empat Rupa",
+    "Place_Tourism5": "Gereja Perawan Maria Tak Berdosa Surabaya",
+    "Total_Places": 5
+  },
+  {
+    "Package": 84,
+    "City": "Surabaya",
+    "Place_Tourism1": "Ciputra Waterpark",
+    "Place_Tourism2": "Kenjeran Park",
+    "Place_Tourism3": "Kebun Binatang Surabaya",
+    "Place_Tourism4": "Atlantis Land Surabaya",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 85,
+    "City": "Surabaya",
+    "Place_Tourism1": "Air Mancur Menari",
+    "Place_Tourism2": "Monumen Kapal Selam",
+    "Place_Tourism3": "Pantai Ria Kenjeran",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 86,
+    "City": "Surabaya",
+    "Place_Tourism1": "Museum De Javasche Bank",
+    "Place_Tourism2": "Surabaya Museum (Gedung Siola)",
+    "Place_Tourism3": "Balai Kota Surabaya",
+    "Place_Tourism4": "Museum Mpu Tantular",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 87,
+    "City": "Surabaya",
+    "Place_Tourism1": "Surabaya North Quay",
+    "Place_Tourism2": "Waterpark Kenjeran Surabaya",
+    "Place_Tourism3": "| Food Junction Grand Pakuwon",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 88,
+    "City": "Surabaya",
+    "Place_Tourism1": "Taman Buah Surabaya",
+    "Place_Tourism2": "Taman Pelangi",
+    "Place_Tourism3": "Taman Barunawati",
+    "Place_Tourism4": "Taman Mundu",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 89,
+    "City": "Surabaya",
+    "Place_Tourism1": "Rumah Batik",
+    "Place_Tourism2": "Jembatan Merah",
+    "Place_Tourism3": "Monumen Tugu Pahlawan",
+    "Place_Tourism4": "Monumen Jalesveva Jayamahe",
+    "Place_Tourism5": "Patung Sura dan Buaya",
+    "Total_Places": 5
+  },
+  {
+    "Package": 90,
+    "City": "Surabaya",
+    "Place_Tourism1": "Monumen Tugu Pahlawan",
+    "Place_Tourism2": "Monumen Jalesveva Jayamahe",
+    "Place_Tourism3": "Patung Sura dan Buaya",
+    "Place_Tourism4": "Monumen Bambu Runcing Surabaya",
+    "Place_Tourism5": "House of Sampoerna",
+    "Total_Places": 5
+  },
+  {
+    "Package": 91,
+    "City": "Surabaya",
+    "Place_Tourism1": "Ekowisata Mangrove Wonorejo",
+    "Place_Tourism2": "Taman Harmoni Keputih",
+    "Place_Tourism3": "Taman Air Mancur Menari Kenjeran",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 92,
+    "City": "Surabaya",
+    "Place_Tourism1": "Taman Kunang-Kunang",
+    "Place_Tourism2": "Taman Ekspresi Dan Perpustakaan",
+    "Place_Tourism3": "Taman Air Mancur Menari Kenjeran",
+    "Place_Tourism4": null,
+    "Place_Tourism5": null,
+    "Total_Places": 3
+  },
+  {
+    "Package": 93,
+    "City": "Surabaya",
+    "Place_Tourism1": "Museum TNI AL Loka Jala Crana",
+    "Place_Tourism2": "Klenteng Sanggar Agung",
+    "Place_Tourism3": "Museum Sepuluh Nopember Kota Surabaya",
+    "Place_Tourism4": "Museum Kesehatan Dr. Adhyatma",
+    "Place_Tourism5": "Taman Hiburan Rakyat",
+    "Total_Places": 5
+  },
+  {
+    "Package": 94,
+    "City": "Surabaya",
+    "Place_Tourism1": "Taman Buah Surabaya",
+    "Place_Tourism2": "Taman Pelangi",
+    "Place_Tourism3": "Hutan Bambu Keputih",
+    "Place_Tourism4": "Taman Barunawati",
+    "Place_Tourism5": "Kebun Bibit Wonorejo",
+    "Total_Places": 5
+  },
+  {
+    "Package": 95,
+    "City": "Surabaya",
+    "Place_Tourism1": "Museum TNI AL Loka Jala Crana",
+    "Place_Tourism2": "Taman Hiburan Rakyat",
+    "Place_Tourism3": "Museum De Javasche Bank",
+    "Place_Tourism4": "Museum Mpu Tantular",
+    "Place_Tourism5": null,
+    "Total_Places": 4
+  },
+  {
+    "Package": 96,
+    "City": "Surabaya",
+    "Place_Tourism1": "Ekowisata Mangrove Wonorejo",
+    "Place_Tourism2": "Taman Harmoni Keputih",
+    "Place_Tourism3": "Taman Kunang-Kunang",
+    "Place_Tourism4": "Taman Ekspresi Dan Perpustakaan",
+    "Place_Tourism5": "Museum De Javasche Bank",
+    "Total_Places": 5
+  },
+  {
+    "Package": 97,
+    "City": "Surabaya",
+    "Place_Tourism1": "Ciputra Waterpark",
+    "Place_Tourism2": "Kenjeran Park",
+    "Place_Tourism3": "Kebun Binatang Surabaya",
+    "Place_Tourism4": "Food Junction Grand Pakuwon",
+    "Place_Tourism5": "| Atlantis Land Surabaya",
+    "Total_Places": 5
+  },
+  {
+    "Package": 98,
+    "City": "Surabaya",
+    "Place_Tourism1": "Museum Kesehatan Dr. Adhyatma",
+    "Place_Tourism2": "Patung Buddha Empat Rupa",
+    "Place_Tourism3": "Taman Hiburan Rakyat",
+    "Place_Tourism4": "Taman Bungkul",
+    "Place_Tourism5": "Taman Flora Bratang Surabaya",
+    "Total_Places": 5
+  },
+  {
+    "Package": 99,
+    "City": "Surabaya",
+    "Place_Tourism1": "Taman Ekspresi Dan Perpustakaan",
+    "Place_Tourism2": "Museum De Javasche Bank",
+    "Place_Tourism3": "Surabaya Museum (Gedung Siola)",
+    "Place_Tourism4": "Museum Mpu Tantular",
+    "Place_Tourism5": "Taman Air Mancur Menari Kenjeran",
+    "Total_Places": 5
+  },
+  {
+    "Package": 100,
+    "City": "Surabaya",
+    "Place_Tourism1": "Taman Buah Surabaya",
+    "Place_Tourism2": "Hutan Bambu Keputih",
+    "Place_Tourism3": "Taman Barunawati",
+    "Place_Tourism4": "Kebun Bibit Wonorejo",
+    "Place_Tourism5": "Taman Mundu",
+    "Total_Places": 5
+  }
+]

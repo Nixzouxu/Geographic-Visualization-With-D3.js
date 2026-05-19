@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Peta Wisata Indonesia — D3.js</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+  <!--  HEADER -->
+  <header class="header">
+    <div class="brand">
+      <svg class="brand-icon" viewBox="0 0 32 32" width="32" height="32" fill="none">
+        <circle cx="16" cy="16" r="14.5" stroke="var(--accent)" stroke-width="1.4"/>
+        <ellipse cx="16" cy="16" rx="6" ry="14.5" stroke="var(--accent)" stroke-width="1" opacity=".45"/>
+        <line x1="2" y1="16" x2="30" y2="16" stroke="var(--accent)" stroke-width="1" opacity=".45"/>
+        <circle cx="16" cy="16" r="2.5" fill="var(--accent)"/>
+      </svg>
+      <div>
+        <h1 class="brand-title">Peta Wisata Indonesia</h1>
+        <p class="brand-sub">Geographic Visualization · D3.js · Dataset Kaggle</p>
+      </div>
+    </div>
+
+    <div class="kpi-row">
+      <div class="kpi">
+        <span class="kpi-val" id="kpi-shown">—</span>
+        <span class="kpi-lbl">Ditampilkan</span>
+      </div>
+      <div class="kpi-sep"></div>
+      <div class="kpi">
+        <span class="kpi-val">437</span>
+        <span class="kpi-lbl">Total Tempat</span>
+      </div>
+      <div class="kpi-sep"></div>
+      <div class="kpi">
+        <span class="kpi-val">5</span>
+        <span class="kpi-lbl">Kota</span>
+      </div>
+      <div class="kpi-sep"></div>
+      <div class="kpi">
+        <span class="kpi-val">6</span>
+        <span class="kpi-lbl">Kategori</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- TOOLBAR  -->
+  <div class="toolbar">
+
+    <div class="tbar-group">
+      <span class="tbar-lbl">Filter Kategori</span>
+      <div class="pill-row" id="pill-row">
+        <button class="pill pill-all active" data-cat="all">Semua</button>
+      </div>
+    </div>
+
+    <div class="tbar-group">
+      <span class="tbar-lbl">Fokus Kota</span>
+      <div class="cbtn-row">
+        <button class="cbtn active" data-city="all">Seluruh Peta</button>
+        <button class="cbtn" data-city="Jakarta">Jakarta</button>
+        <button class="cbtn" data-city="Bandung">Bandung</button>
+        <button class="cbtn" data-city="Yogyakarta">Yogyakarta</button>
+        <button class="cbtn" data-city="Semarang">Semarang</button>
+        <button class="cbtn" data-city="Surabaya">Surabaya</button>
+      </div>
+    </div>
+
+    <div class="tbar-group tbar-right">
+      <span class="tbar-lbl">Zoom / Pan</span>
+      <div class="zbtn-row">
+        <button class="zbtn" id="btn-zin"  title="Zoom In">+</button>
+        <button class="zbtn" id="btn-zout" title="Zoom Out">−</button>
+        <button class="zbtn" id="btn-zrst" title="Reset">⌂</button>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- MAP  -->
+  <div class="map-area" id="map-area">
+    <svg id="map-svg"></svg>
+
+    <div class="tooltip hidden" id="tooltip">
+      <p  class="tt-name"  id="tt-name"></p>
+      <span class="tt-badge" id="tt-badge"></span>
+      <div class="tt-rows"  id="tt-rows"></div>
+    </div>
+
+    <div class="map-overlay" id="ov-load">
+      <div class="spinner"></div>
+      <span>Memuat data dari CSV…</span>
+    </div>
+
+    <div class="map-overlay hidden" id="ov-err">
+      <p class="ov-err-title">⚠ Gagal memuat data</p>
+      <p class="ov-err-hint">
+        Pastikan dijalankan via local server:<br>
+        <code>python -m http.server 8000</code>
+      </p>
+    </div>
+  </div>
+
+  <!--  LEGEND  -->
+  <footer class="legend-bar">
+    <div class="leg-block">
+      <p class="leg-title">Warna = Kategori Wisata</p>
+      <div class="leg-cats" id="leg-cats"></div>
+    </div>
+    <div class="leg-sep"></div>
+    <div class="leg-block">
+      <p class="leg-title">Ukuran = Rating Pengguna (avg)</p>
+      <div class="leg-sizes">
+        <div class="lsz-item"><svg width="20" height="20"><circle cx="10" cy="10" r="4"  fill="var(--accent)" opacity=".8"/></svg><span>2.0</span></div>
+        <div class="lsz-item"><svg width="20" height="20"><circle cx="10" cy="10" r="7"  fill="var(--accent)" opacity=".8"/></svg><span>3.0</span></div>
+        <div class="lsz-item"><svg width="20" height="20"><circle cx="10" cy="10" r="10" fill="var(--accent)" opacity=".8"/></svg><span>4.0+</span></div>
+      </div>
+    </div>
+    <div class="leg-sep"></div>
+    <div class="leg-block">
+      <p class="leg-title">Sumber Data (Lokal)</p>
+      <p class="leg-src">
+        Indonesia Tourism Destination · Kaggle ·
+        <em>tourism_with_id.csv</em> + <em>tourism_rating.csv</em> + <em>indonesia.geojson</em>
+      </p>
+    </div>
+  </footer>
+
+  <!--
+    Semua file lokal 
+    d3.v7.min.js     → js/d3.v7.min.js
+    indonesia.geojson → data/indonesia.geojson  (dibuat dari koordinat lokal)
+    CSV data          → data/*.csv
+  -->
+  <script src="js/d3.v7.min.js"></script>
+  <script src="js/main.js"></script>
+
+</body>
+</html>
