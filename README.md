@@ -19,7 +19,7 @@ This project was born from a simple question asked during a Data Visualization c
 
 This is a web-based geographic visualization tool built entirely on D3.js (version 7). It renders a vector map of Indonesia from real GeoJSON spatial data, then plots hundreds of tourist destinations directly onto that map based on their precise coordinates. Each destination is represented as a visual data point that communicates two dimensions of information simultaneously: its category through color, and its average user rating through size.
 
-The result is a living, interactive dashboard that lets anyone — from a data analyst to a casual traveler — explore the distribution of Indonesian tourism without opening a single spreadsheet.
+The result is a living, interactive dashboard that lets anyone from a data analyst to a casual traveler explore the distribution of Indonesian tourism without opening a single spreadsheet.
 
 ---
 
@@ -68,13 +68,13 @@ The preprocessing script handles all of this: merging the dimension and fact tab
 
 **Custom Geographic Projection.** The application uses D3's geoMercator projection combined with geoPath to translate three-dimensional globe coordinates into a scalable, accurate two-dimensional web canvas. The projection is calibrated to center and fit Indonesia precisely within the viewport.
 
-**Dual Visual Encoding.** Every data point on the map communicates two variables at once. Color encodes the tourism category — each category receives a distinct hue for immediate differentiation. Circle radius encodes the average user rating — destinations with higher ratings render as larger circles, creating an intuitive size hierarchy.
+**Dual Visual Encoding.** Every data point on the map communicates two variables at once. Color encodes the tourism category each category receives a distinct hue for immediate differentiation. Circle radius encodes the average user rating — destinations with higher ratings render as larger circles, creating an intuitive size hierarchy.
 
 **Interactive Tooltip System.** Hovering over any data point triggers a tooltip overlay that displays the destination's name, its category, and its calculated average rating. This allows users to retrieve precise information without cluttering the base map.
 
 **Category Filter.** A filter panel lets users toggle visibility by tourism category. Selecting one or more categories hides all non-matching data points, enabling focused exploration of specific destination types.
 
-**Zoom and Pan Navigation.** Users can zoom into any region of the map and pan freely across the canvas, making it possible to explore dense clusters of destinations — such as those in Java or Bali — without visual overlap obscuring individual data points.
+**Zoom and Pan Navigation.** Users can zoom into any region of the map and pan freely across the canvas, making it possible to explore dense clusters of destinations such as those in Java or Bali without visual overlap obscuring individual data points.
 
 **Soft-Green Aesthetic Theme.** The interface is styled with a custom soft-green color palette designed to reduce eye strain during extended use while maintaining a modern, clean visual identity.
 
