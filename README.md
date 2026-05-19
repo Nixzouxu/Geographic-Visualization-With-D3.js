@@ -29,7 +29,7 @@ The primary purpose of this application is to make spatial tourism data accessib
 
 - Identify geographic clusters of tourism activity across the archipelago at a glance
 - Compare user satisfaction levels between destinations visually, without reading raw numbers
-- Discover destinations by category — whether Nature, Marine, Cultural, or others filtered to a specific region of interest
+- Discover destinations by category whether Nature, Marine, Cultural, or others filtered to a specific region of interest
 - Interact with individual data points to retrieve detailed information on demand
 
 This tool is designed for anyone who benefits from understanding where tourism is concentrated, how it is rated, and what kind of experience each destination offers all within a single, unified visual interface.
@@ -68,7 +68,7 @@ The preprocessing script handles all of this: merging the dimension and fact tab
 
 **Custom Geographic Projection.** The application uses D3's geoMercator projection combined with geoPath to translate three-dimensional globe coordinates into a scalable, accurate two-dimensional web canvas. The projection is calibrated to center and fit Indonesia precisely within the viewport.
 
-**Dual Visual Encoding.** Every data point on the map communicates two variables at once. Color encodes the tourism category each category receives a distinct hue for immediate differentiation. Circle radius encodes the average user rating — destinations with higher ratings render as larger circles, creating an intuitive size hierarchy.
+**Dual Visual Encoding.** Every data point on the map communicates two variables at once. Color encodes the tourism category each category receives a distinct hue for immediate differentiation. Circle radius encodes the average user rating destinations with higher ratings render as larger circles, creating an intuitive size hierarchy.
 
 **Interactive Tooltip System.** Hovering over any data point triggers a tooltip overlay that displays the destination's name, its category, and its calculated average rating. This allows users to retrieve precise information without cluttering the base map.
 
