@@ -127,7 +127,7 @@ indonesia-tourism-map/
 
 ## Initialization and Running the Project
 
-Modern browsers enforce strict Cross-Origin Resource Sharing (CORS) policies that block JavaScript from fetching local files directly via the `file://` protocol. Because this application dynamically loads the GeoJSON map and the processed JSON dataset at runtime, the project must be served over HTTP — even when running locally. The steps below walk through the entire setup from cloning to a running browser session.
+Modern browsers enforce strict Cross-Origin Resource Sharing (CORS) policies that block JavaScript from fetching local files directly via the `file://` protocol. Because this application dynamically loads the GeoJSON map and the processed JSON dataset at runtime, the project must be served over HTTP even when running locally. The steps below walk through the entire setup from cloning to a running browser session.
 
 **Step 1 — Clone the repository.**
 
